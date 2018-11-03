@@ -1,0 +1,12 @@
+{
+  "name": "turtle.js",
+  "version": "1.0.0",
+  "description": "A JS library for turtle graphics",
+  "main": "index.js",
+  "keywords": [
+    "JS",
+    "turtle"
+  ],
+  "author": "Felix Rewer",
+  "license": "MIT"
+}
